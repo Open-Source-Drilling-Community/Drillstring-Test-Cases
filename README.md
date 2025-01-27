@@ -9,4 +9,4 @@ Sample outputs are provided as examples for comparison, not as exhaustive result
 ## Test Cases 1-4
 These are a set of 6 test cases (1, 2a, 2b, 3, 4a, 4b).  They are documented in this [report](https://github.com/Open-Source-Drilling-Community/notes-and-documents/tree/main/2023%20Drillstring%20Modeling%20Report) and summarized in this [paper](https://onepetro.org/SPEATCE/proceedings-abstract/24ATCE/24ATCE/D011S008R004/563520).
 
-These test cases were specifically designed to compare drillstring models.  They start from the most simple case and grow gradually more complex to allow debugging of any differences seen.
+These test cases were specifically designed to compare drillstring models.  They start from a simple case and gradually grow more complex to allow debugging of any differences observed.
